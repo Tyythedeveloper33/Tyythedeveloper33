@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SleepInn](https://github.com/AaronAlvd/airbnb-project)
 
-- 🌱 I’m currently learning **redux,python & flask,**
+- 🌱 I’m currently learning **Docker,three.js,**
 
 - 💬 Ask me about **react**
 
